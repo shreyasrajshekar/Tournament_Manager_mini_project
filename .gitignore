@@ -1,0 +1,9 @@
+tm_server
+tm_cli
+test_ds
+test_core
+*.exe
+*.log
+data/*
+!data/.gitkeep
+report/
